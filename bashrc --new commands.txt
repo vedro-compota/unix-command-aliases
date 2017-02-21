@@ -1,0 +1,19 @@
+
+#------------Common Ubuntu commands (custom)------------------------
+
+# set terminal tab title (rename tab)
+set-title(){
+  ORIG=$PS1
+  TITLE="\e]2;$@\a"
+  PS1=${ORIG}${TITLE}
+}
+
+
+#------------Git (custom) commands------------------------
+
+# add commit  push by one command
+function lazygit() {
+    git add .
+    git commit -a -m "$1"
+    git push
+}
