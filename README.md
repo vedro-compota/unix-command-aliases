@@ -9,7 +9,7 @@ sudo nano ~/.bashrc
 (for all functions) or in:
 ```bash
 sudo nano ~/.bashrc
-```
+``` 
 (for aliases)
 
 ##По-русски## 
