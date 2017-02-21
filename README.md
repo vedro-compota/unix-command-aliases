@@ -1,5 +1,5 @@
 # Unix Command Aliases && new custom useful commands #
-firstly for ubuntu linux -- bash terminal commands aliases and short versions
+.bash terminal commands aliases and short versions
 
 
 You can use this commands, by adding them, for example in:
