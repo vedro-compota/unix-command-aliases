@@ -1,4 +1,4 @@
-# Unix Command Aliases && new useful commands #
+# Unix Command Aliases && new custom useful commands #
 firstly for ubuntu linux -- terminal commands aliases and short versions
 
 
