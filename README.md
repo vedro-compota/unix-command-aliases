@@ -2,19 +2,18 @@
 .bash terminal commands aliases and short versions
 
 
-You can use this commands, by adding them, for example in:
+You can use this commands, by adding them, for example in (for functions):
 ```bash
 sudo nano ~/.bashrc
 ```
-(for all functions) or in:
+ or in (for aliases):
 ```bash
 sudo nano ~/.bashrc
 ``` 
-(for aliases)
 
 ##По-русски 
 
-Набор сокращений, псевдонимов и полезных команд для терминала Ubuntu (многое подойдёт и для других unix-систем)
+unix-command-aliases -- это Набор сокращений, псевдонимов и полезных команд для терминала Ubuntu (многое подойдёт и для других unix-систем)
 
 Эти функции можно использовать, добавив в (для функций):
 ```bash
