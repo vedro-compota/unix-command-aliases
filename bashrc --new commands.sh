@@ -8,6 +8,12 @@ set-title(){
   PS1=${ORIG}${TITLE}
 }
 
+#-----------Terminal-------------
+
+# Copy file content to clipboard (for CTRL+V) using xclip 
+function fcc() {
+    cat $1|xclip -i -selection clipboard
+}
 
 #------------Git (custom) commands------------------------
 
